@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="KeyboardNumberTheme" parent="Theme.AppCompat.Light.Dialog.Alert"/>
+
+    <style name="KeyboardNumberKeys" parent="TextAppearance.AppCompat.Display1">
+        <item name="android:fontFamily">sans-serif-thin</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorButtonNormal">@color/colorPrimaryDark</item>
+
+        <item name="knpDisplayTextColor">@color/background</item>
+        <item name="knpDisplayBackgroundColor">@color/colorPrimaryDark</item>
+        <item name="knpKeysTextColor">@color/colorPrimaryDark</item>
+        <!--<item name="knpKeysBackgroundColor">@color/colorAccent</item>-->
+        <item name="knpBackgroundColor">@color/background</item>
+        <item name="knpBackspaceTintColor">@color/colorPrimaryDark</item>
+        <!--<item name="knpBackspaceBackgroundColor">#4455aa</item>-->
+    </style>
+
+
+
+</resources>

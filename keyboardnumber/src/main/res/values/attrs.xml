@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="KeyboardNumberPicker">
+        <attr name="knpDisplayTextColor" format="color"/>
+        <attr name="knpDisplayBackgroundColor" format="color"/>
+        <attr name="knpKeysTextColor" format="color"/>
+        <attr name="knpKeysBackgroundColor" format="color"/>
+        <attr name="knpBackgroundColor" format="color"/>
+        <attr name="knpBackspaceTintColor" format="color"/>
+        <attr name="knpBackspaceBackgroundColor" format="color"/>
+    </declare-styleable>
+</resources>
