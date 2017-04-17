@@ -1,10 +1,12 @@
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-KeyboardNumber-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5588)
+
 # KeyboardNumber
 Teclado numérico customizado
 
-<img src="https://github.com/policante/KeyboardNumber/blob/master/resource/dialog1.png" width="170">
-<img src="https://github.com/policante/KeyboardNumber/blob/master/resource/dialog2.png" width="170">
-<img src="https://github.com/policante/KeyboardNumber/blob/master/resource/dialog3.png" width="170">
-<img src="https://github.com/policante/KeyboardNumber/blob/master/resource/dialog4.png" width="170">
+<img src="https://github.com/policante/KeyboardNumber/blob/master/resource/dialog1.png" width="150">
+<img src="https://github.com/policante/KeyboardNumber/blob/master/resource/dialog2.png" width="150">
+<img src="https://github.com/policante/KeyboardNumber/blob/master/resource/dialog3.png" width="150">
+<img src="https://github.com/policante/KeyboardNumber/blob/master/resource/dialog4.png" width="150">
 
 ## Download
 Adicione o repositório JitPack no seu build.gradle no final de repositories:
